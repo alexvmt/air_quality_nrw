@@ -10,7 +10,7 @@ The map below shows NO2 levels in April 2019, 2020, 2021 and 2022 in NRW. Especi
 
 Sentinel-5P NO2 data has a resolution of 1113.2 meters.
 
-The map can be further explored in Earth Engine using [this](https://code.earthengine.google.com/63a4dd3871b99e7930808f36de741f64) link to the Code Editor. You can use the layer control to change the opacity of the NO2 layer to see which places exhibit particularily high NO2 levels.
+The map can be further explored in Earth Engine using [this](https://alexvmt.users.earthengine.app/view/airqualitynrw) link to Earth Engine Apps or [this](https://code.earthengine.google.com/63a4dd3871b99e7930808f36de741f64) link to the Code Editor. You can use the layer control to change the opacity of the NO2 layer to see which places exhibit particularily high NO2 levels.
 
 ## Further ideas
 
